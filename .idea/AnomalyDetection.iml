@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/results/Patchcore/visioncontrol_full/v1" />
+      <excludeFolder url="file://$MODULE_DIR$/results/Patchcore/visioncontrol_full/v2" />
+      <excludeFolder url="file://$MODULE_DIR$/results/Patchcore/visioncontrol_full/v3" />
+      <excludeFolder url="file://$MODULE_DIR$/results/Patchcore/visioncontrol_full/v4" />
+      <excludeFolder url="file://$MODULE_DIR$/results/Patchcore/visioncontrol_full/v5" />
+      <excludeFolder url="file://$MODULE_DIR$/results/Patchcore/visioncontrol_full/v6" />
+      <excludeFolder url="file://$MODULE_DIR$/results/Patchcore/visioncontrol_full/v7" />
+      <excludeFolder url="file://$MODULE_DIR$/results/Patchcore/visioncontrol_full/v0" />
+      <excludeFolder url="file://$MODULE_DIR$/results/Patchcore/visioncontrol_full/v0/images" />
+      <excludeFolder url="file://$MODULE_DIR$/results/Patchcore/visioncontrol_full/v0/weights" />
+    </content>
+    <orderEntry type="jdk" jdkName="$USER_HOME$/anaconda3/envs/anomalib310" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="PyDocumentationSettings">
+    <option name="format" value="GOOGLE" />
+    <option name="myDocStringFormat" value="Google" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="py.test" />
+  </component>
+</module>

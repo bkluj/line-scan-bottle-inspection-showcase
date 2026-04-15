@@ -1,0 +1,3 @@
+*.ckpt
+/results/Patchcore/visioncontrol_full/v0/weights/lightning/model.ckpt
+/results/
