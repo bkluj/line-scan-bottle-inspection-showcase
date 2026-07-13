@@ -1,1 +1,0 @@
-"""Synthetic defect generators package for the public showcase version."""

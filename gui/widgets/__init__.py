@@ -1,1 +1,0 @@
-"""Reusable GUI widgets package for the public showcase version."""
